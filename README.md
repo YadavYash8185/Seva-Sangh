@@ -39,6 +39,7 @@ project/
 - 🎨 Clean, modern UI with Tailwind
 - 🔧 Typed codebase using TypeScript
 - 🧱 Modular component structure
+- Latest Tech Stack Used
 
 ---
 
